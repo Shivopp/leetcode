@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,16 +49,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
