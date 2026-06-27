@@ -1,7 +1,11 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
 
-        return (s+s).contains(goal);
+        StringBuilder ab=new StringBuilder();
+        ab.append(s);
+        ab.append(ab);
+        String num=ab.toString();
+        return num.contains(goal);
 
     }
 }
