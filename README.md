@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0796-rotate-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
