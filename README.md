@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
