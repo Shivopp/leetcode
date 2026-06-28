@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
