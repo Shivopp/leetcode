@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0796-rotate-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
