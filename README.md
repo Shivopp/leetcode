@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Enumeration
