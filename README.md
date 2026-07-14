@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3843-first-element-with-unique-frequency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -161,4 +163,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 <!---LeetCode Topics End-->
