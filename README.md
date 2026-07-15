@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -164,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
