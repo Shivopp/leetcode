@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
