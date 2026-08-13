@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Math
 | Problem Name | Difficulty |
