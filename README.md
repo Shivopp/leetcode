@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
