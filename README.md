@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3843-first-element-with-unique-frequency](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3843-first-element-with-unique-frequency/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
