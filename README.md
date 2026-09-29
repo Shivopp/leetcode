@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -317,4 +318,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
