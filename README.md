@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
