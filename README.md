@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Design
@@ -350,4 +354,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
