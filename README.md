@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -207,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Bit Manipulation
