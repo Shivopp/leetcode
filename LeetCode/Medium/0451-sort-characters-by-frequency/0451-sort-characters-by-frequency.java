@@ -1,27 +1,41 @@
 class Solution {
     public String frequencySort(String s) {
 
-        int[] hash = new int[128];
+     
+       
+     int[][] arr = new int[62][2];
 
-        for(int i = 0; i < s.length(); i++) {
-            hash[s.charAt(i)]++;
+        for (char ch : s.toCharArray()) {
+
+            int idx;
+            if (ch >= 'a' && ch <= 'z')
+                idx =ch-'a';
+            else if(ch >='A'&&ch<= 'Z')
+                idx = 26+ch-'A';
+            else
+                idx = 52 +ch -'0';
+            arr[idx][0]=ch;
+            arr[idx][1]++;
         }
 
-        StringBuilder ans = new StringBuilder();
+     Arrays.sort(arr,(a,b) ->b[1]-a[1]);
 
-        for(int freq = s.length(); freq > 0; freq--) {
 
-            for(int i = 0; i < 128; i++) {
 
-                if(hash[i] == freq) {
+      StringBuilder ans = new StringBuilder();
 
-                    for(int j = 0; j < freq; j++) {
-                        ans.append((char)i);
-                    }
-                }
+        for (int i = 0; i < 62; i++) {
+
+            for (int j = 0; j < arr[i][1]; j++) {
+                ans.append((char)arr[i][0]);
             }
         }
 
         return ans.toString();
+
+
+
+
+
     }
 }
