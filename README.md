@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
 | [0796-rotate-string](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
