@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -536,4 +538,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
