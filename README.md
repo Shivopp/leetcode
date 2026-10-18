@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
