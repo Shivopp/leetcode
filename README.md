@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
