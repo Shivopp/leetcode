@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0054-spiral-matrix](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -524,4 +526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
