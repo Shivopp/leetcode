@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivopp/leetcode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
